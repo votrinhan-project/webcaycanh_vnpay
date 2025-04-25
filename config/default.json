@@ -1,6 +1,6 @@
 {
-  "vnp_TmnCode":"HUKZAXPV",
-  "vnp_HashSecret":"EJY7XWTBN5HKK6LYDKYSBVXLSBCV3VN0",
+  "vnp_TmnCode":"24Y4BM56",
+  "vnp_HashSecret":"T48A5346VOWS24Y4BM56MXQJGAWMJCPDJLG75DN1",
   "vnp_Url":"https://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
   "vnp_Api":"https://sandbox.vnpayment.vn/merchant_webapi/api/transaction",
   "vnp_ReturnUrl": "https://webcaycanh-frontend.onrender.com/payment-return"
